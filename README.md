@@ -7,4 +7,6 @@ implements some fun AI trying to be creative.
 This will also likely be used on my [website](https://iaroslav-ai.github.io/) in 
 demos section.
 
-![Currently under construction.](https://iaroslav-ai.github.io/images/under_construction.svg)
+But it is still mostly ...
+
+![under construction.](https://iaroslav-ai.github.io/images/under_construction.svg)

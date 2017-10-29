@@ -1,4 +1,8 @@
-# Sources of datasets
+# Data used for creativity 
+
+Put here downloaded data if you want to reproduce any of the AI training.
+
+### Sources of datasets
 
 Here you can find links to original datasets used for different creative AI tasks.
 
